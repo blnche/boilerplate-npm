@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "blnche",
 	"description": "A description of a project",
-	"keywords": ["string1", "string2", "string3"],
+	"keywords": ["string1", "freecodecamp", "string3"],
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
